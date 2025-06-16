@@ -6,6 +6,7 @@ Bagath
 singh
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Telangana
 Andhra Pradesh
 Bengaluru
@@ -13,4 +14,3 @@ Bengaluru
 India
 England
 America
-
