@@ -5,6 +5,7 @@ ustad
 Bagath
 singh
 
+<<<<<<< HEAD
 Telangana
 Andhra Pradesh
 Bengaluru
@@ -12,3 +13,4 @@ Bengaluru
 India
 England
 America
+
